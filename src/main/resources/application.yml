@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      database: Book
+      host: localhost
+      port: 27017
+
+urlShortener:
+  domain: localhost:8080/
